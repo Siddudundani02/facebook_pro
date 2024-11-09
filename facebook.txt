@@ -1,3 +1,4 @@
 Singup
 SignIn
 with Verification Code
+Email Verification
